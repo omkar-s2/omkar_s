@@ -6,7 +6,7 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://omkar-spotify-now-playing.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/track/6cUOiOY5qh2FpIQWIYAd2h?si=dWgzaFPmRHqxCdaEnrrJrQ&utm_source=copy-link)
+[<img src="https://open.spotify.com/track/6cUOiOY5qh2FpIQWIYAd2h?si=dWgzaFPmRHqxCdaEnrrJrQ&utm_source=copy-link" alt="Spotify Now Playing" width="350" />](https://omkar-spotify-now-playing.vercel.app/api/spotify-playing)
 
 <!---
 omkar-s2/omkar-s2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
