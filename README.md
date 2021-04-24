@@ -4,14 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-### Spotify Playing 🎧
-<p align="right">
-   <a href="https://open.spotify.com/user/91pz5c0ljj9ivx0rk1r3430jb?si=OXHmTT22Q022F0CLS2mCGw&utm_source=copy-link" target="omkar-s2">
-    <img src="https://omkar-spotify-now-playing.vercel.app/api/spotify-playing" width="256" height="64" alt="Spotify Now Playing" align="right"></img>
-  </a>
-</p>
-
-
 
 ### Spotify Playing 🎧
 [<img src="https://omkar-spotify-now-playing.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/91pz5c0ljj9ivx0rk1r3430jb?si=OXHmTT22Q022F0CLS2mCGw&utm_source=copy-link)
