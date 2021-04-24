@@ -8,6 +8,7 @@
 ### Spotify Playing 🎧
 [<img src="https://omkar-spotify-now-playing.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://omkar-spotify-now-playing.vercel.app/api/spotify-playing)
 
+[website]
 [![Website](https://omkar-s2.github.io/omkar/)
 <!---
 omkar-s2/omkar-s2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
