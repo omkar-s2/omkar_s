@@ -2,7 +2,7 @@
 - 👀 I’m interested in myself and only I
 - 🌱 I’m currently learning everything🤣🤣
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 reach me : - omkarsahane121@gmail.com
 
 
 ### Spotify Playing 🎧
