@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @omkar-s2
 - 👀 I’m interested in myself and only I
 - 🌱 I’m currently learning everything🤣🤣
-- 💞️ I’m looking to collaborate on ...
 - 📫 reach me : - omkarsahane121@gmail.com
 
 
