@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omkar-s2
+- 👋 Hi, I’m @omkar
 - 👀 I’m interested in myself.
 - 🌱 I’m currently learning everything🤣🤣
 - 📫 reach me : - omkarsahane121@gmail.com
