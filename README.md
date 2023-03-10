@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omkar
 - 👀 I’m interested in myself.
-- 🌱 I’m currently learning everything🤣🤣
+- 🌱 I’m currently learning everything
 - 📫 reach me : - omkarsahane121@gmail.com
 
 PLEASE VISIT : https://omkar-s2.github.io/pro/
