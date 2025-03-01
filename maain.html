@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Omkar's Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>Welcome to Omkar's Space</header>
+    <div class="container">
+        <section class="about">
+            <h2>About Me</h2>
+            <img src="profile.jpg" alt="Omkar's Photo" class="profile-pic">
+            <p>Middleware Engineer | DevOps Enthusiast | Moto Vlogger</p>
+        </section>
+        <section class="social-links">
+            <h3>Connect with me</h3>
+            <a href="#"><img src="instagram.png" alt="Instagram"></a>
+            <a href="#"><img src="linkedin.png" alt="LinkedIn"></a>
+            <a href="#"><img src="github.png" alt="GitHub"></a>
+            <a href="#"><img src="youtube.png" alt="YouTube"></a>
+        </section>
+        <section class="blog-posts">
+            <h2>Blog</h2>
+            <div id="posts"></div>
+        </section>
+    </div>
+    <script>
+        const posts = [
+            "WebSphere Configuration Tips",
+            "My First Moto Vlog Experience",
+            "Deploying Apps using Ansible",
+            "Best Practices for Middleware Security"
+        ];
+        
+        const postContainer = document.getElementById("posts");
+        posts.forEach(post => {
+            const div = document.createElement("div");
+            div.classList.add("post", "fade-in");
+            div.innerHTML = `<h3>${post}</h3><p>Lorem ipsum dolor sit amet...</p><img src="blog.jpg" alt="Blog Image" class="blog-image">`;
+            postContainer.appendChild(div);
+        });
+    </script>
+</body>
+</html>
